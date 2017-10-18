@@ -7,5 +7,4 @@ build
 dist
 MANIFEST
 *.sublime-workspace
-
-
+pyelftools.egg-info
